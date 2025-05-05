@@ -1,126 +1,105 @@
 <!-- GitHub Profile README for Ndumiso Ngobese -->
 
+<!-- GitHub Profile README for Ndumiso Ngobese -->
+
 <h1 align="center">Hi 👋, I'm Ndumiso Ngobese</h1>
+<h3 align="center">Full-Stack Developer | Meta Certified | WeThinkCode_ Graduate</h3>
+
 <p align="center">
-  <strong>Full-Stack Developer | Meta Certified | WeThinkCode_ Graduate</strong><br>
-  Bridging user-centric design with robust backend architecture
+  <a href="https://portfolio-web-page-three.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/ndumisongobese/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ndumisongobeseng@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
 
 ---
 
-### 🔥 About Me
+### 🧑‍💻 About Me
 
-I'm a full-stack developer trained at **WeThinkCode_**, and certified by **Meta (via Coursera)** in both **Front-End** and **Back-End Development**. I’m passionate about crafting seamless digital experiences—whether it’s intuitive UI with **React** or scalable APIs with **Python/Java**.
+I'm a full-stack developer passionate about crafting seamless digital experiences. With certifications in both Front-End and Back-End Development through Meta and Coursera, and a graduate of WeThinkCode_, I specialize in:
 
-> 💡 What drives me? The blend of logical problem-solving with creative expression.
-
-- 🔧 **Frontend**: React, JavaScript (ES6+), CSS3, Responsive Design  
-- 🔧 **Backend**: Python, Java, Django, Javalin, MySQL  
-- 🛠️ **DevOps**: Docker, GitLab CI/CD  
-- 🧪 **Quality**: Test-Driven Development, Agile, Clean Code Principles  
+- **Front-End Development**: Building responsive UIs with React, JavaScript, and modern CSS frameworks.
+- **Back-End Development**: Developing scalable server-side solutions using Python and Java.
+- **DevOps & Automation**: Implementing CI/CD pipelines with Docker and GitLab.
+- **Problem Solving & Quality**: Tackling complex challenges with a test-driven development approach.
 
 ---
 
-### 🚀 My Mission
+### 🛠️ Tech Stack
 
-> *"To create digital experiences that are both impactful and intuitive—built on clean, scalable code and a user-first mindset."*
+#### Languages
 
-🎯 I’m inspired by solving real-world problems with tech.  
-🌱 Currently exploring: **Advanced React patterns**, **Microservices**, **Accessibility**.
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
 
----
+#### Frameworks & Libraries
 
-### 💼 Featured Projects
+<p align="left">
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Javalin-%23000000.svg?style=for-the-badge&logo=java&logoColor=white" alt="Javalin" />
+</p>
 
-Here are some of my top projects. Each one reflects my learning, creativity, and technical growth.
+#### Tools & Platforms
 
-#### ⚙️ Robot Worlds API
-> Java | Javalin | MySQL | Docker | CI/CD  
-A robot simulation engine with persistent worlds and RESTful endpoints.
-
-- ✅ Automated CI/CD pipeline
-- ✅ JDBC + DAO pattern for DB integration
-- ✅ Code quality tracking with CodeScene  
-[🔗 View Code](#) • [📄 Case Study](#)
-
----
-
-#### 🍽️ Little Lemon Restaurant
-> React | JS | CSS | Testing  
-A restaurant management app with bookings and menu control.
-
-- ✅ Form validation
-- ✅ Admin dashboard features
-- ✅ Unit-tested with React Testing Library  
-[🔗 View Code](#) • [🔍 Demo](#)
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
+</p>
 
 ---
 
-#### 💍 Mangata & Gallo
-> HTML5 | CSS3 | JavaScript  
-Luxury jewelry e-commerce site.
+### 📈 GitHub Stats
 
-- ✅ Mobile-first responsive layout
-- ✅ Interactive video hero section  
-[🔗 View Code](#) • [🔍 Demo](#)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ndumisodev&show_icons=true&theme=radical" alt="Ndumiso's GitHub Stats" />
+</p>
 
----
-
-#### 📊 Plotta (In Development)
-> Python | JavaScript | Plotly | WebGL  
-A 2D/3D graphing calculator for visualizing math functions.
-
-- 🎯 Trigonometric and polynomial function support  
-- 🎯 WebGL-powered rendering  
-🛠️ Preview coming soon
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndumisodev&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
-### 📜 Certifications & Education
+### 🏆 GitHub Trophies
 
-- 🏅 **Meta Front-End Developer** – [View Certificate](#)  
-- 🏅 **Meta Back-End Developer** – [View Certificate](#)  
-- 🏅 **Agile Development & Scrum** (IBM) – [View Certificate](#)  
-- 🎓 **WeThinkCode_ (2023–2024)** – Full-Stack Software Engineering  
-
----
-
-### 📢 Elevator Pitch
-
-> "Hi, I'm Ndumiso Ngobese. A certified full-stack developer passionate about connecting stunning front-ends with scalable back-end systems. My strength lies in building robust APIs, automating workflows, and crafting user-focused designs that just work."
-
-💡 Let's build the future, one clean commit at a time.
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ndumisodev&theme=radical" alt="GitHub Trophies" />
+</p>
 
 ---
 
-### 📬 Let's Connect!
+### 🔥 GitHub Activity Graph
 
-- 📧 Email: ndumisongobeseng@gmail.com  
-- 📞 Phone: +27 81 289 7413  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ndumiso-ngobese)  
-- 🌐 [Portfolio Website](#) (Optional GitHub Pages)
-
----
-
-### 📌 Pinned Repositories (Make Sure to Pin These!)
-- [`robot-worlds`](#)
-- [`little-lemon`](#)
-- [`mangata-gallo`](#)
-- [`plotta`](#)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ndumisodev&theme=radical" alt="GitHub Activity Graph" />
+</p>
 
 ---
 
-### 🛠 Tech Stack & Tools
+### 🚀 Projects
 
-**Languages:** Java · Python · JavaScript  
-**Frameworks:** React · Django · Javalin  
-**Databases:** MySQL · SQLite  
-**Tools:** Git · Docker · VSCode · GitLab CI  
-**Practices:** Agile · Scrum · Test-Driven Development
+- **Robot Worlds API**: A complex robot simulation engine with persistent worlds, combat mechanics, and database integration.
+  - Technologies: Java, Javalin, MySQL, Docker, CI/CD
+  - [Repository](https://github.com/ndumisodev/robot-worlds-api)
 
----
+- **Little Lemon Restaurant**: Full-stack restaurant management system with booking and menu features.
+  - Technologies: React, JavaScript, CSS3
+  - [Repository](https://github.com/ndumisodev/little-lemon-restaurant)
 
-### 🙌 Open to Opportunities
+- **Mangata & Gallo Jewelry**: Luxury jewelry e-commerce site with responsive design.
+  - Technologies: HTML5, CSS3, JavaScript
+  - [Repository](https://github.com/ndumisodev/mangata-gallo)
 
-I'm currently open to junior developer roles, internships, or freelance projects where I can make an impact through full-stack development. Let’s build something amazing together!
-
+- **Plotta Web App**: Interactive 2D/3D function grapher for mathematical visualization.
+  - Technologies: Python, JavaScript, Plotly, WebGL
+  - [
