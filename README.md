@@ -1,4 +1,166 @@
 <!-- GitHub Profile README for Ndumiso Ngobese -->
+
+<div align="center" id="top">
+  <div class="theme-toggle">
+    <button id="theme-btn">🌓</button>
+  </div>
+  
+  <h1>Hi 👋, I'm Ndumiso Ngobese</h1>
+  <h3>Full-Stack Developer | Meta Certified | WeThinkCode_ Graduate</h3>
+
+  <!-- Dynamic Social Badges -->
+  <div class="badges-container" id="social-badges">
+    <a href="https://portfolio-web-page-three.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://www.linkedin.com/in/ndumisongobese/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:ndumisongobeseng@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+    <a href="[YOUR_CV_LINK]" download class="cv-download">
+      <img src="https://img.shields.io/badge/Download_CV-%23000000.svg?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV" />
+    </a>
+  </div>
+</div>
+
+---
+
+### 🧑‍💻 About Me
+
+I'm a full-stack developer passionate about crafting seamless digital experiences. With certifications in both Front-End and Back-End Development through Meta and Coursera, and a graduate of WeThinkCode_, I specialize in:
+
+<div class="skills-grid">
+  <div class="skill-card">
+    <h4>Front-End Development</h4>
+    <p>React | JavaScript | CSS</p>
+    <div class="skill-bar"><div class="skill-progress" style="width: 90%"></div></div>
+  </div>
+  <!-- Repeat for other skill categories -->
+</div>
+
+---
+
+### 🎓 Certifications
+
+<div class="certifications-carousel">
+  ![Meta Front-End Developer](https://img.shields.io/badge/Meta-Front--End_Developer-blue?logo=meta&logoColor=white)
+  ![Meta Back-End Developer](https://img.shields.io/badge/Meta-Back--End_Developer-blue?logo=meta&logoColor=white)
+  ![IBM Agile & Scrum](https://img.shields.io/badge/IBM-Agile_&_Scrum-orange?logo=ibm&logoColor=white)
+  ![WeThinkCode_ Graduate](https://img.shields.io/badge/WeThinkCode_-Graduate-6C33FF?logo=python&logoColor=white)
+</div>
+
+---
+
+### 🛠️ Tech Stack
+
+<div class="tech-radar">
+  <div class="radar-axis"></div>
+  <div class="tech-item" style="top: 30%; left: 50%">React</div>
+  <div class="tech-item" style="top: 45%; left: 65%">Python</div>
+  <!-- Add more tech items -->
+</div>
+
+---
+
+### 📈 GitHub Activity
+
+<div class="github-stats">
+  <div class="stats-loader"></div>
+  <div id="gh-stats"></div>
+  <div id="gh-languages"></div>
+  <div id="gh-streak"></div>
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+<div class="projects-grid">
+  <div class="project-card">
+    <h4>Robot Worlds API</h4>
+    <div class="project-tech">Java | Docker | CI/CD</div>
+    <div class="project-loading"></div>
+    <div class="project-content">
+      <p>A complex robot simulation engine with persistent worlds</p>
+      <a href="https://github.com/ndumisodev/robot-worlds-api">View Repository</a>
+    </div>
+  </div>
+  <!-- Repeat for other projects -->
+</div>
+
+<style>
+  :root {
+    --primary: #2A5C82;
+    --secondary: #FF6B6B;
+    --bg: #ffffff;
+    --text: #1A1A1A;
+  }
+
+  [data-theme="dark"] {
+    --bg: #1A1A1A;
+    --text: #ffffff;
+  }
+
+  .theme-toggle {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+  }
+
+  .skills-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1rem;
+  }
+
+  .tech-radar {
+    position: relative;
+    height: 400px;
+    background: radial-gradient(circle, var(--primary) 0%, transparent 70%);
+  }
+
+  @keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+  }
+
+  .stats-loader {
+    animation: pulse 1.5s infinite;
+  }
+</style>
+
+<script>
+  // Theme Toggle
+  const themeBtn = document.getElementById('theme-btn');
+  themeBtn.addEventListener('click', () => {
+    document.body.classList.toggle('dark-theme');
+    localStorage.setItem('theme', document.body.classList.contains('dark-theme') ? 'dark' : 'light');
+  });
+
+  // GitHub API Integration
+  async function loadGitHubStats() {
+    const response = await fetch('https://api.github.com/users/ndumisodev');
+    const data = await response.json();
+    
+    document.getElementById('gh-stats').innerHTML = `
+      <p>Repositories: ${data.public_repos}</p>
+      <p>Followers: ${data.followers}</p>
+    `;
+  }
+  
+  // Initialize
+  window.addEventListener('DOMContentLoaded', () => {
+    if (localStorage.getItem('theme') === 'dark') document.body.classList.add('dark-theme');
+    loadGitHubStats();
+  });
+</script>
+
+
+
+
+<!-- GitHub Profile README for Ndumiso Ngobese -->
 <div align="center">
 
   <h1>👋 Hi, I'm Ndumiso Ngobese <img src="https://media.giphy.com/media/hvRJclFzJl92ybvyCt/giphy.gif" width="30px"></h1>
