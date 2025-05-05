@@ -1,133 +1,126 @@
-## Hi there 👋
+<!-- GitHub Profile README for Ndumiso Ngobese -->
 
-<!--
-**ndumisodev/ndumisodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Ndumiso Ngobese</h1>
+<p align="center">
+  <strong>Full-Stack Developer | Meta Certified | WeThinkCode_ Graduate</strong><br>
+  Bridging user-centric design with robust backend architecture
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 About Me
 
-<div align="center">
+I'm a full-stack developer trained at **WeThinkCode_**, and certified by **Meta (via Coursera)** in both **Front-End** and **Back-End Development**. I’m passionate about crafting seamless digital experiences—whether it’s intuitive UI with **React** or scalable APIs with **Python/Java**.
 
-  <h1>👋 Hi, I'm Ndumiso Ngobese</h1>
+> 💡 What drives me? The blend of logical problem-solving with creative expression.
 
-  <p>
-    A passionate and driven aspiring Software Engineer eager to contribute innovative solutions to impactful projects. My journey into the world of software began because [**INSERT HERE: Why you started with software engineering, what you are passionate about, and what inspires you. Be specific and enthusiastic! E.g., "I was captivated by the power of code to transform ideas into reality..."**].
-  </p>
+- 🔧 **Frontend**: React, JavaScript (ES6+), CSS3, Responsive Design  
+- 🔧 **Backend**: Python, Java, Django, Javalin, MySQL  
+- 🛠️ **DevOps**: Docker, GitLab CI/CD  
+- 🧪 **Quality**: Test-Driven Development, Agile, Clean Code Principles  
 
-  <p>
-    My aim is to [**INSERT HERE: Your Vision. E.g., "build scalable and user-friendly applications that solve real-world problems and contribute to a more connected digital future."**]. This fuels my desire to work on [**INSERT HERE: The types of projects you would like to work on. Be specific! E.g., "developing robust web applications with a focus on clean architecture and efficient performance," or "exploring the intersection of AI and user experience through innovative software solutions."**].
-  </p>
+---
 
-  <a href="https://www.linkedin.com/in/[YOUR_LINKEDIN_PROFILE_URL]" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:[YOUR_EMAIL_ADDRESS]">
-    <img alt="Email" src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  </div>
+### 🚀 My Mission
 
-<br />
+> *"To create digital experiences that are both impactful and intuitive—built on clean, scalable code and a user-first mindset."*
 
-<div align="left">
+🎯 I’m inspired by solving real-world problems with tech.  
+🌱 Currently exploring: **Advanced React patterns**, **Microservices**, **Accessibility**.
 
-  <h3>🛠️ Technologies & Skills</h3>
+---
 
-  <p>
-    Here's a glimpse into my growing toolkit:
-  </p>
+### 💼 Featured Projects
 
-  <ul>
-    <li><strong>Languages:</strong> Python, Java, JavaScript, HTML, CSS</li>
-    <li><strong>Front-End:</strong> React, [Mention other front-end skills/libraries e.g., Tailwind CSS, Redux]</li>
-    <li><strong>Back-End:</strong> Django, [Mention other back-end skills/frameworks e.g., Flask, Spring Boot], RESTful APIs</li>
-    <li><strong>Databases:</strong> SQL (MySQL, PostgreSQL), [Mention NoSQL if applicable e.g., MongoDB]</li>
-    <li><strong>DevOps:</strong> Docker, Git, GitHub, [Mention CI/CD tools e.g., GitLab CI/CD, Jenkins]</li>
-    <li><strong>Other:</strong> [Mention other relevant skills e.g., Agile methodologies, Test-Driven Development]</li>
-  </ul>
+Here are some of my top projects. Each one reflects my learning, creativity, and technical growth.
 
-</div>
+#### ⚙️ Robot Worlds API
+> Java | Javalin | MySQL | Docker | CI/CD  
+A robot simulation engine with persistent worlds and RESTful endpoints.
 
-<br />
+- ✅ Automated CI/CD pipeline
+- ✅ JDBC + DAO pattern for DB integration
+- ✅ Code quality tracking with CodeScene  
+[🔗 View Code](#) • [📄 Case Study](#)
 
-<div align="left">
+---
 
-  <h3>🔭 Current Learning & Interests</h3>
+#### 🍽️ Little Lemon Restaurant
+> React | JS | CSS | Testing  
+A restaurant management app with bookings and menu control.
 
-  <p>
-    I'm currently focused on expanding my knowledge in:
-  </p>
+- ✅ Form validation
+- ✅ Admin dashboard features
+- ✅ Unit-tested with React Testing Library  
+[🔗 View Code](#) • [🔍 Demo](#)
 
-  <ul>
-    <li>[Mention a specific technology you're learning, e.g., Advanced React patterns]</li>
-    <li>[Mention another area of interest, e.g., Cloud computing with AWS/Azure]</li>
-    <li>[Mention a specific domain you're interested in, e.g., Building scalable microservices]</li>
-  </ul>
+---
 
-  <p>
-    I'm particularly fascinated by [**Elaborate slightly on what genuinely excites you in the tech world, connecting it to your vision. E.g., "the potential of AI to revolutionize user experiences and the intricacies of building highly performant back-end systems."**].
-  </p>
+#### 💍 Mangata & Gallo
+> HTML5 | CSS3 | JavaScript  
+Luxury jewelry e-commerce site.
 
-</div>
+- ✅ Mobile-first responsive layout
+- ✅ Interactive video hero section  
+[🔗 View Code](#) • [🔍 Demo](#)
 
-<br />
+---
 
-<div align="left">
+#### 📊 Plotta (In Development)
+> Python | JavaScript | Plotly | WebGL  
+A 2D/3D graphing calculator for visualizing math functions.
 
-  <h3>🌱 Projects & Contributions</h3>
+- 🎯 Trigonometric and polynomial function support  
+- 🎯 WebGL-powered rendering  
+🛠️ Preview coming soon
 
-  <p>
-    Check out some of the projects I've been working on:
-  </p>
+---
 
-  <p>
-    [**Optional: Briefly introduce your pinned repositories here. E.g., "Below are a few highlighted projects that showcase my skills in [mention key skills]. You can find more on my repositories tab."**]
-  </p>
+### 📜 Certifications & Education
 
-  <br />
+- 🏅 **Meta Front-End Developer** – [View Certificate](#)  
+- 🏅 **Meta Back-End Developer** – [View Certificate](#)  
+- 🏅 **Agile Development & Scrum** (IBM) – [View Certificate](#)  
+- 🎓 **WeThinkCode_ (2023–2024)** – Full-Stack Software Engineering  
 
-  <p>
-    I'm also keen on contributing to open source projects that align with my interests. [**Mention if you've contributed or plan to. E.g., "I'm actively looking for opportunities to contribute to open source communities focused on [mention areas]."**]
-  </p>
+---
 
-</div>
+### 📢 Elevator Pitch
 
-<br />
+> "Hi, I'm Ndumiso Ngobese. A certified full-stack developer passionate about connecting stunning front-ends with scalable back-end systems. My strength lies in building robust APIs, automating workflows, and crafting user-focused designs that just work."
 
-<div align="left">
+💡 Let's build the future, one clean commit at a time.
 
-  <h3>📚 Certifications & Education</h3>
+---
 
-  <ul>
-    <li><strong>WeThinkCode_</strong> Graduate</li>
-    <li><strong>Meta Front-End Developer Professional Certificate</strong> (Coursera)</li>
-    <li><strong>Meta Back-End Developer Professional Certificate</strong> (Coursera)</li>
-    </ul>
+### 📬 Let's Connect!
 
-</div>
+- 📧 Email: ndumisongobeseng@gmail.com  
+- 📞 Phone: +27 81 289 7413  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ndumiso-ngobese)  
+- 🌐 [Portfolio Website](#) (Optional GitHub Pages)
 
-<br />
+---
 
-<div align="left">
+### 📌 Pinned Repositories (Make Sure to Pin These!)
+- [`robot-worlds`](#)
+- [`little-lemon`](#)
+- [`mangata-gallo`](#)
+- [`plotta`](#)
 
-  <h3>🤝 Let's Connect!</h3>
+---
 
-  <p>
-    I'm always open to connecting with fellow developers, recruiters, and tech enthusiasts. Feel free to reach out!
-  </p>
+### 🛠 Tech Stack & Tools
 
-  <a href="https://www.linkedin.com/in/[YOUR_LINKEDIN_PROFILE_URL]" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:[YOUR_EMAIL_ADDRESS]">
-    <img alt="Email" src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  </div>
+**Languages:** Java · Python · JavaScript  
+**Frameworks:** React · Django · Javalin  
+**Databases:** MySQL · SQLite  
+**Tools:** Git · Docker · VSCode · GitLab CI  
+**Practices:** Agile · Scrum · Test-Driven Development
+
+---
+
+### 🙌 Open to Opportunities
+
+I'm currently open to junior developer roles, internships, or freelance projects where I can make an impact through full-stack development. Let’s build something amazing together!
+
