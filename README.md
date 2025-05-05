@@ -133,21 +133,3 @@ I'm a full-stack developer passionate about crafting seamless digital experience
 </p>
 
 ---
-
-### 🚀 Projects
-
-- **Robot Worlds API**: A complex robot simulation engine with persistent worlds, combat mechanics, and database integration.
-  - Technologies: Java, Javalin, MySQL, Docker, CI/CD
-  - [Repository](https://github.com/ndumisodev/robot-worlds-api)
-
-- **Little Lemon Restaurant**: Full-stack restaurant management system with booking and menu features.
-  - Technologies: React, JavaScript, CSS3
-  - [Repository](https://github.com/ndumisodev/little-lemon-restaurant)
-
-- **Mangata & Gallo Jewelry**: Luxury jewelry e-commerce site with responsive design.
-  - Technologies: HTML5, CSS3, JavaScript
-  - [Repository](https://github.com/ndumisodev/mangata-gallo)
-
-- **Plotta Web App**: Interactive 2D/3D function grapher for mathematical visualization.
-  - Technologies: Python, JavaScript, Plotly, WebGL
-  - [
