@@ -132,6 +132,17 @@ I'm a full-stack developer passionate about crafting seamless digital experience
 
 ---
 
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ndumisodev/ndumisodev/output/github-contribution-grid-snake.svg"
+       alt="GitHub Contribution Snake Animation" />
+</p>
+
+---
+
+
 ### 🏆 GitHub Trophies
 
 <p align="center">
