@@ -31,6 +31,30 @@ I'm a full-stack developer passionate about crafting seamless digital experience
 
 ---
 
+
+
+
+
+### 🚀 Currently Learning
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Learning-System_Design-blue?style=for-the-badge&logo=abstract&logoColor=white" />
+  <img src="https://img.shields.io/badge/Learning-Advanced_SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Learning-Cloud_Deployment-orange?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Learning-Backend_Scalability-success?style=for-the-badge" />
+</p>
+
+- 📘 Deepening my understanding of **backend system design**
+- 🧠 Improving **database performance & query optimization**
+- ☁️ Practicing **cloud-native deployment workflows**
+- 🔍 Studying **scalable API architecture**
+
+
+
+
+---
+
+
 ### 🎓 Certifications
 
 ![Meta Front-End Developer](https://img.shields.io/badge/Meta-Front--End_Developer-blue?logo=meta&logoColor=white)
