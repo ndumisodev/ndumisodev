@@ -95,6 +95,31 @@ I'm a full-stack developer passionate about crafting seamless digital experience
 
 ### <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/4.gif" width="100%"> Featured Projects & Deep Dives
 
+
+---
+
+#### 1. **Portfolio Website** ✨
+**A responsive portfolio showcasing my full-stack development skills and professional journey**
+
+- **🔗 Live Demo:** [portfolio-web-page-three.vercel.app](https://portfolio-web-page-three.vercel.app/)
+- **📁 Repository:** [github.com/ndumisodev/portfolio-web-page](https://github.com/ndumisodev/portfolio-web-page)
+- **🛠️ Tech Stack:** HTML5, CSS3, JavaScript, Flexbox, CSS Grid, Devicon, Google Fonts
+
+<details>
+<summary><strong>📋 Project Details</strong></summary>
+
+**Features:**
+- **Modern Design:** Clean, minimalist interface with smooth animations
+- **Fully Responsive:** Optimized for all device sizes
+- **Project Showcase:** Interactive project cards with filterable categories
+- **Professional Content:** Skills matrix, education timeline, certifications
+- **Mobile Optimized:** Hamburger navigation and touch-friendly interactions
+
+</details>
+
+---
+
+
 - **<span style="color: #007bff;">Robot Worlds API:</span>** A robust robot simulation engine with persistent environments, intricate combat mechanics, and seamless database integration.
   - **Tech Stack:** Java, Javalin, MySQL, Docker, CI/CD
   - **<a href="https://github.com/ndumisodev/robot-worlds-api">GitHub Repository</a>**
@@ -188,8 +213,6 @@ I’m currently open to:
 
 ---
 ---
-
-### <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rocket.png" width="25"> Featured Projects
 
 #### 1. **Portfolio Website** ✨
 **A responsive portfolio showcasing my full-stack development skills and professional journey**
