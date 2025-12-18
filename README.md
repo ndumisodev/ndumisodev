@@ -117,7 +117,7 @@ I'm a full-stack developer passionate about crafting seamless digital experience
 - **<span style="color: #007bff;">Little Lemon Restaurant:</span>** A user-friendly full-stack restaurant management system encompassing intuitive booking and dynamic menu features.
   - **Tech Stack:** React, JavaScript, CSS3, React Testing Library
   - **<a href="https://github.com/ndumisodev/little-lemon-restaurant">GitHub Repository</a>**
-  - **Testimonial:** <q>Ndumiso's contribution to the Little Lemon project's front-end was outstanding. The application is not only visually appealing but also incredibly intuitive and responsive, leading to positive user feedback. His meticulous approach to testing ensured a stable and reliable user experience.</q> - *[Name and Title if available]*
+  - **Testimonial:** <q>Ndumiso's contribution to the Little Lemon project's front-end was outstanding. The application is not only visually appealing but also incredibly intuitive and responsive, leading to positive user feedback. His meticulous approach to testing ensured a stable and reliable user experience.</q> - Project Peer Review
 
 - **<span style="color: #007bff;">Mangata & Gallo Jewelry:</span>** An elegant and responsive e-commerce platform for luxury jewelry, designed with a mobile-first approach.
   - **Tech Stack:** HTML5, CSS3, JavaScript
@@ -166,5 +166,24 @@ I'm a full-stack developer passionate about crafting seamless digital experience
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ndumisodev&theme=radical" alt="GitHub Activity Graph" />
 </p>
+
+---
+
+
+---
+
+### 📬 Let’s Connect
+
+I’m currently open to:
+- Junior Software Developer roles
+- Graduate programs
+- Backend / Full-Stack internships
+
+📫 **Email:** ndumisongobeseng@gmail.com  
+💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/ndumisongobese/)  
+🌍 **Portfolio:** https://portfolio-web-page-three.vercel.app/
+
+> I’m passionate about building reliable systems, learning continuously, and contributing to meaningful software products.
+
 
 ---
