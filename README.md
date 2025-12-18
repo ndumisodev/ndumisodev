@@ -150,7 +150,7 @@ Addressing limited access to affordable, timely, and stigma-free mental health s
 
 
 
-
+---
 
 
 #### 2. **Robot Worlds API** 🤖
@@ -178,6 +178,9 @@ Addressing limited access to affordable, timely, and stigma-free mental health s
       </p>
       <p align="center"><img src="[Link to your architecture diagram image]" alt="Robot Worlds Architecture" width="80%"></p>
     </details>
+
+
+---
 
 - **<span style="color: #007bff;">Little Lemon Restaurant:</span>** A user-friendly full-stack restaurant management system encompassing intuitive booking and dynamic menu features.
   - **Tech Stack:** React, JavaScript, CSS3, React Testing Library
@@ -254,75 +257,3 @@ I’m currently open to:
 ---
 ---
 
-#### 1. **Portfolio Website** ✨
-**A responsive portfolio showcasing my full-stack development skills and professional journey**
-
-- **🔗 Live Demo:** [portfolio-web-page-three.vercel.app](https://portfolio-web-page-three.vercel.app/)
-- **📁 Repository:** [github.com/ndumisodev/portfolio-web-page](https://github.com/ndumisodev/portfolio-web-page)
-- **🛠️ Tech Stack:** HTML5, CSS3, JavaScript, Flexbox, CSS Grid, Devicon, Google Fonts
-
-<details>
-<summary><strong>📋 Project Details</strong></summary>
-
-**Features:**
-- **Modern Design:** Clean, minimalist interface with smooth animations
-- **Fully Responsive:** Optimized for all device sizes
-- **Project Showcase:** Interactive project cards with filterable categories
-- **Professional Content:** Skills matrix, education timeline, certifications
-- **Mobile Optimized:** Hamburger navigation and touch-friendly interactions
-
-**Key Highlights:**
-- Implemented complex two-column layouts for project browsing
-- Created interactive timeline for education and work experience
-- Built contact form with validation and social media integration
-- Optimized performance with lazy loading and compressed assets
-
-**Technologies Used:**
-- Frontend: HTML5, CSS3, JavaScript (ES6+)
-- Layout: Flexbox, CSS Grid
-- Icons: Devicon, Material Symbols
-- Fonts: Smooch Sans, Lexend
-- Deployment: Vercel
-</details>
-
----
-
-#### 2. **Robot Worlds API** 🤖
-**A complex robot simulation engine with persistent worlds and database integration**
-
-- **📁 Repository:** [github.com/ndumisodev/robot-worlds-api](https://github.com/ndumisodev/robot-worlds-api)
-- **📝 Case Study:** [Brownfield Project Report](https://medium.com/@ndumisongobeseng/brownfield-project-report-8c88b8d6472c)
-- **🛠️ Tech Stack:** Java, Javalin, MySQL, Docker, CI/CD, GitLab
-
-<details>
-<summary><strong>🚀 Deep Dive: Performance & Scalability Optimization</strong></summary>
-
-**Challenge:**
-The legacy Robot Worlds API suffered from performance bottlenecks and scalability limitations, hindering real-time simulation responsiveness and concurrent user capacity.
-
-**Solution:**
-I led a comprehensive refactoring initiative focusing on:
-- **Codebase Modularization:** Restructured into clean, maintainable modules
-- **Database Optimization:** Implemented efficient indexing strategies and prepared statements
-- **Caching Layer:** Introduced Redis for frequently accessed world data
-- **CI/CD Pipeline:** Automated testing and Docker deployment with GitLab CI/CD
-- **Error Handling:** Enhanced with comprehensive logging and recovery mechanisms
-
-**Key Metrics Achieved:**
-- **⚡ API Response Time:** Reduced by **40%** for critical simulation endpoints
-- **📈 Concurrent Simulations:** System capacity increased **3x** without performance degradation
-- **🔄 Error Rate:** Decreased by **15%** through improved error handling and testing
-- **🔧 Deployment Time:** Automated pipeline reduced deployment time from hours to minutes
-
-**Technical Architecture:**
-```mermaid
-graph LR
-    A[Client Request] --> B[Load Balancer]
-    B --> C[Javalin API]
-    C --> D[Redis Cache]
-    C --> E[MySQL Database]
-    D --> C
-    E --> C
-    C --> F[Robot Simulation Engine]
-    F --> G[World Persistence]
-    G --> E
