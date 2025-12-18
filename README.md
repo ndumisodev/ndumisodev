@@ -168,193 +168,7 @@ I'm a full-stack developer passionate about crafting seamless digital experience
 </p>
 
 ---
-🌟 Featured Projects & Deep Dives
-1️⃣ Portfolio Website — Personal Brand & Case Studies
 
-A modern, responsive portfolio website showcasing my projects, skills, and professional journey as a full-stack developer.
-
-🔗 Live Demo: https://portfolio-web-page-three.vercel.app/
-
-📁 GitHub Repository: https://github.com/ndumisodev/portfolio
-
-Tech Stack
-
-HTML5, CSS3, JavaScript
-
-CSS Grid, Flexbox
-
-Tools
-
-Git & GitHub
-
-VS Code
-
-Vercel
-
-Key Highlights
-
-Clean, minimalist UI with smooth animations
-
-Fully responsive (mobile-first design)
-
-Project showcase with tech tags and live links
-
-Education, certifications, and career timeline
-
-Performance-optimized assets
-
-This project reflects my approach to design clarity, usability, and developer storytelling.
-
-2️⃣ Robot Worlds API — Distributed Systems & Performance
-
-A robust robot simulation engine featuring persistent environments, combat mechanics, and scalable server architecture.
-
-📁 GitHub Repository: https://github.com/ndumisodev/robot-worlds-api
-
-Tech Stack
-
-Java, Javalin, MySQL
-
-Docker, CI/CD
-
-<details> <summary><strong>Deep Dive 🚀</strong></summary>
-Challenge
-
-Performance bottlenecks and limited scalability affected real-time simulations and concurrent robot interactions.
-
-Solution
-
-Modularized the codebase using clean architecture principles
-
-Optimized database queries with indexing and prepared statements
-
-Improved error handling and test coverage
-
-Implemented CI/CD pipelines with Docker for consistent deployments
-
-Key Impact
-
-⏱ API response time reduced by ~40%
-
-📈 Supported 3× more concurrent simulations
-
-🛠 Error rates reduced by 15%
-
-</details>
-3️⃣ Mental Health Counselling API — Real-World Social Impact
-
-A secure and accessible online counselling API designed to improve access to affordable, stigma-free mental health support in South Africa.
-
-Tech Stack
-
-Django REST Framework
-
-Django Channels (WebSockets)
-
-MySQL
-
-Authentication
-
-Djoser + JWT
-
-Integrations
-
-Google Calendar API (planned)
-
-SADAG Hotline API
-
-Twilio (planned)
-
-Deployment
-
-Docker (planned)
-
-Core Features
-
-Role-based authentication (Client, Counselor, Admin)
-
-Session booking, confirmation, and management
-
-Real-time anonymous chat for stigma-sensitive users
-
-Emergency hotline integration
-
-Audit logging for compliance and accountability
-
-Stretch Goals
-
-AI-powered triage questionnaire (NLP)
-
-SMS reminders
-
-Multilingual support
-
-This project demonstrates my ability to design secure, scalable APIs with real social impact.
-
-4️⃣ Little Lemon Restaurant — Front-End Engineering
-
-A user-friendly restaurant web application with booking and dynamic menu features.
-
-📁 GitHub Repository: https://github.com/ndumisodev/little-lemon-restaurant
-
-Tech Stack
-
-React
-
-JavaScript
-
-CSS3
-
-React Testing Library
-
-“Ndumiso’s contribution to the front-end was outstanding — intuitive, responsive, and well-tested.”
-— Project Peer Review
-
-5️⃣ Mangata & Gallo Jewelry — Responsive UI Design
-
-An elegant, mobile-first e-commerce website for a luxury jewelry brand.
-
-📁 GitHub Repository: https://github.com/ndumisodev/mangata-gallo
-
-Tech Stack
-
-HTML5
-
-CSS3
-
-JavaScript
-
-6️⃣ Plotta Web App — Data Visualization
-
-An interactive web application for real-time 2D and 3D mathematical function visualization.
-
-Tech Stack
-
-Python
-
-JavaScript
-
-Plotly
-
-WebGL
-
-📁 GitHub Repository: (coming soon)
-
-✅ Why This Works
-
-This structure guides recruiters naturally:
-
-Who are you? → Portfolio
-
-Can you engineer systems? → Robot Worlds
-
-Can you solve real problems? → Mental Health API
-
-Can you build UIs? → Little Lemon & Mangata
-
-Do you experiment and learn? → Plotta
-
-Your README now acts as a recruiter funnel, not just a project list.
 
 ---
 
@@ -373,3 +187,79 @@ I’m currently open to:
 
 
 ---
+---
+
+### <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rocket.png" width="25"> Featured Projects
+
+#### 1. **Portfolio Website** ✨
+**A responsive portfolio showcasing my full-stack development skills and professional journey**
+
+- **🔗 Live Demo:** [portfolio-web-page-three.vercel.app](https://portfolio-web-page-three.vercel.app/)
+- **📁 Repository:** [github.com/ndumisodev/portfolio-web-page](https://github.com/ndumisodev/portfolio-web-page)
+- **🛠️ Tech Stack:** HTML5, CSS3, JavaScript, Flexbox, CSS Grid, Devicon, Google Fonts
+
+<details>
+<summary><strong>📋 Project Details</strong></summary>
+
+**Features:**
+- **Modern Design:** Clean, minimalist interface with smooth animations
+- **Fully Responsive:** Optimized for all device sizes
+- **Project Showcase:** Interactive project cards with filterable categories
+- **Professional Content:** Skills matrix, education timeline, certifications
+- **Mobile Optimized:** Hamburger navigation and touch-friendly interactions
+
+**Key Highlights:**
+- Implemented complex two-column layouts for project browsing
+- Created interactive timeline for education and work experience
+- Built contact form with validation and social media integration
+- Optimized performance with lazy loading and compressed assets
+
+**Technologies Used:**
+- Frontend: HTML5, CSS3, JavaScript (ES6+)
+- Layout: Flexbox, CSS Grid
+- Icons: Devicon, Material Symbols
+- Fonts: Smooch Sans, Lexend
+- Deployment: Vercel
+</details>
+
+---
+
+#### 2. **Robot Worlds API** 🤖
+**A complex robot simulation engine with persistent worlds and database integration**
+
+- **📁 Repository:** [github.com/ndumisodev/robot-worlds-api](https://github.com/ndumisodev/robot-worlds-api)
+- **📝 Case Study:** [Brownfield Project Report](https://medium.com/@ndumisongobeseng/brownfield-project-report-8c88b8d6472c)
+- **🛠️ Tech Stack:** Java, Javalin, MySQL, Docker, CI/CD, GitLab
+
+<details>
+<summary><strong>🚀 Deep Dive: Performance & Scalability Optimization</strong></summary>
+
+**Challenge:**
+The legacy Robot Worlds API suffered from performance bottlenecks and scalability limitations, hindering real-time simulation responsiveness and concurrent user capacity.
+
+**Solution:**
+I led a comprehensive refactoring initiative focusing on:
+- **Codebase Modularization:** Restructured into clean, maintainable modules
+- **Database Optimization:** Implemented efficient indexing strategies and prepared statements
+- **Caching Layer:** Introduced Redis for frequently accessed world data
+- **CI/CD Pipeline:** Automated testing and Docker deployment with GitLab CI/CD
+- **Error Handling:** Enhanced with comprehensive logging and recovery mechanisms
+
+**Key Metrics Achieved:**
+- **⚡ API Response Time:** Reduced by **40%** for critical simulation endpoints
+- **📈 Concurrent Simulations:** System capacity increased **3x** without performance degradation
+- **🔄 Error Rate:** Decreased by **15%** through improved error handling and testing
+- **🔧 Deployment Time:** Automated pipeline reduced deployment time from hours to minutes
+
+**Technical Architecture:**
+```mermaid
+graph LR
+    A[Client Request] --> B[Load Balancer]
+    B --> C[Javalin API]
+    C --> D[Redis Cache]
+    C --> E[MySQL Database]
+    D --> C
+    E --> C
+    C --> F[Robot Simulation Engine]
+    F --> G[World Persistence]
+    G --> E
