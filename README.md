@@ -127,7 +127,7 @@ I'm a full-stack developer passionate about crafting seamless digital experience
 **A secure online counselling platform connecting clients with mental health professionals**
 
 - **📁 Repository:** [github.com/ndumisodev/mental-health-api](https://github.com/ndumisodev/mental-health-api)
-- **🛠️ Tech Stack:** Django REST Framework, Django Channels, MySQL, JWT Auth, WebSockets
+- **🛠️ Tech Stack:** Django REST Framework, MySQL, JWT Auth, 
 
 <details>
 <summary><strong>🏥 Project Overview & Technical Details</strong></summary>
@@ -138,7 +138,7 @@ Addressing limited access to affordable, timely, and stigma-free mental health s
 **Key Features:**
 - **🔐 Authentication & Roles:** JWT-based authentication with Djoser for Clients, Counselors, and Admins
 - **👥 Profiles:** Counselor specialties, languages, availability, bio, and client preferences
-- **📅 Session Booking:** Book, confirm, cancel, and complete sessions with Google Calendar integration
+- **📅 Session Booking:** Book, confirm, cancel, and complete sessions
 - **💬 Real-time Messaging:** Anonymous chat rooms with Django Channels/WebSockets
 - **🚨 Emergency Support:** SADAG/Lifeline hotline API integration
 - **📊 Audit Logging:** Comprehensive action tracking for accountability and compliance
@@ -149,38 +149,104 @@ Addressing limited access to affordable, timely, and stigma-free mental health s
 - Multilingual support
 
 
+</details>
 
 ---
 
 
-#### 2. **Robot Worlds API** 🤖
-**A complex robot simulation engine with persistent worlds and database integration**
+#### 3. **Robot Worlds API** 🤖
+**A complex robot simulation engine with persistent worlds, database integration, and automated CI/CD**
 
-- **📁 Repository:** [github.com/ndumisodev/robot-worlds-api](https://github.com/ndumisodev/robot-worlds-api)
+- **📁 Repository:** [gitlab.wethinkco.de/xnxumalo023/dbn16_brownfields_2024](https://gitlab.wethinkco.de/xnxumalo023/dbn16_brownfields_2024)
 - **📝 Case Study:** [Brownfield Project Report](https://medium.com/@ndumisongobeseng/brownfield-project-report-8c88b8d6472c)
-- **🛠️ Tech Stack:** Java, Javalin, MySQL, Docker, CI/CD, GitLab
+- **🛠️ Tech Stack:** Java, Javalin, MySQL, Docker, GitLab CI/CD, Maven, JUnit5, CodeScene
 
-- **<span style="color: #007bff;">Robot Worlds API:</span>** A robust robot simulation engine with persistent environments, intricate combat mechanics, and seamless database integration.
-  - **Tech Stack:** Java, Javalin, MySQL, Docker, CI/CD
-  - **<a href="https://github.com/ndumisodev/robot-worlds-api">GitHub Repository</a>**
-  - **<a href="[Link to your Medium article or a dedicated case study file/page]">Case Study: Optimizing for Performance & Scalability</a>**
-    <details>
-      <summary><strong style="color: #28a745;">Deep Dive <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"></strong></summary>
-      <br />
-      <p><strong>Challenge:</strong> The legacy Robot Worlds API suffered from performance bottlenecks and scalability limitations, hindering the simulation's real-time responsiveness and the ability to handle a growing number of concurrent simulations.</p>
-      <p><strong>Solution:</strong> I spearheaded a refactoring effort focused on modularizing the codebase and optimizing critical database interactions. This involved implementing efficient indexing strategies, utilizing prepared statements to prevent SQL injection and improve query execution, and introducing a Redis caching layer for frequently accessed world data. Furthermore, I established a fully automated CI/CD pipeline using GitLab CI/CD and Docker to ensure rapid and reliable deployment of new features and performance enhancements.</p>
-      <p><strong>Key Metrics:</strong>
-        <ul>
-          <li><strong>API Response Time:</strong> Reduced by an average of <strong>40%</strong> for key simulation endpoints.</li>
-          <li><strong>Concurrent Simulations:</strong> Increased the system's capacity to handle <strong>3x</strong> more concurrent simulations without performance degradation.</li>
-          <li><strong>Error Rate:</strong> Decreased API error rates by <strong>15%</strong> through improved error handling and comprehensive unit/integration testing.</li>
-        </ul>
-      </p>
-      <p align="center"><img src="[Link to your architecture diagram image]" alt="Robot Worlds Architecture" width="80%"></p>
-    </details>
+<details>
+<summary><strong>📊 Project Overview & Technical Report</strong></summary>
+
+## 🎯 Project Introduction
+The Brownfield project focused on extending and refining the existing Robot Worlds application - a complex robot simulation system requiring careful integration of new functionalities without disrupting the legacy codebase. This project provided hands-on experience applying modern development practices to enhance an existing system's relevance and efficiency.
+
+## 🎯 Project Scope & Objectives
+### Primary Goals:
+- **Legacy Code Refactoring:** Improve maintainability and align with modern coding standards
+- **Feature Expansion:** Introduce Web API and enhanced data persistence while maintaining system stability
+- **Automation Integration:** Implement CI/CD pipeline to streamline development and reduce manual effort
+
+## 🛠️ Tools & Technologies Used
+| Tool/Technology | Purpose |
+|----------------|---------|
+| **Maven** | Primary build tool for dependency management and packaging |
+| **JUnit5** | Unit and acceptance testing framework |
+| **Makefile** | Build process automation and task management |
+| **GitLab** | Task board management, collaboration, and CI/CD |
+| **Docker** | Containerization for consistent deployment |
+| **CodeScene** | Code health monitoring and technical debt analysis |
+
+## 🏆 Key Achievements & Contributions
+### Engineering Role & Automation:
+- **✅ Automated Build & Deployment:** Created comprehensive build scripts that compile, test, and package deployable binaries
+- **✅ CI/CD Pipeline Integration:** Set up GitLab CI/CD pipeline triggering automated builds on every commit
+- **✅ Docker Containerization:** Extended pipeline to package Robot Worlds server into Docker containers
+
+### Group Achievements:
+- **✅ Relational Database Integration:** Implemented saving/restoring of Robot Worlds maps to MySQL database
+- **✅ JDBC API Integration:** Applied SQL knowledge and Java Database Connectivity for data persistence
+- **✅ Separation of Concerns:** Applied architectural patterns to separate data access from domain logic
+- **✅ Web API Implementation:** Developed RESTful API for external system interaction
+- **✅ ORM Transition:** Moved data access layer to Object-Relational Mapping for simplified maintenance
+
+## 🧪 Testing Strategy
+All code changes were accompanied by automated unit tests to ensure:
+- Web API functionality correctness
+- ORM layer reliability
+- System stability during refactoring
+- Regression prevention
+
+## 📊 Code Health Improvement
+**CodeScene Integration for Technical Debt Management:**
+- Monitored code complexity and hotspots
+- Identified technical debt areas for prioritized refactoring
+- Enhanced code readability and reduced complexity
+- Ensured cleaner architecture through data-driven improvements
+
+## 🚧 Challenges Encountered
+1. **Legacy System Complexity:** Minimal documentation made feature introduction challenging
+2. **Database Integration:** Required deep understanding of both legacy code and new database technologies
+3. **Backward Compatibility:** Ensuring existing functionality remained intact for long-time users
+
+## 📈 Results & Outcomes
+- **Enhanced Stability:** More maintainable codebase with reduced bug risk
+- **Automated Processes:** Improved efficiency and reliability of development workflow
+- **Successful Integration:** Persistent storage implementation enhanced server functionality
+- **Modular Architecture:** Extensible system design for future enhancements
+
+## 💡 Key Lessons Learned
+- **Value of Automation:** Critical for reducing manual errors and speeding development
+- **Separation of Concerns:** Essential for maintainability and future feature integration
+- **Team Collaboration:** Effective communication vital for integrating new technologies
+
+## 🚀 Technical Implementation Details
+### Database Integration:
+```java
+// Example: JDBC Implementation for World Persistence
+public class WorldDAO {
+    private final Connection connection;
+    
+    public void saveWorld(World world) {
+        String sql = "INSERT INTO worlds (name, data) VALUES (?, ?)";
+        try (PreparedStatement stmt = connection.prepareStatement(sql)) {
+            stmt.setString(1, world.getName());
+            stmt.setString(2, world.serialize());
+            stmt.executeUpdate();
+        }
+    }
+}
+
 
 
 ---
+
 
 - **<span style="color: #007bff;">Little Lemon Restaurant:</span>** A user-friendly full-stack restaurant management system encompassing intuitive booking and dynamic menu features.
   - **Tech Stack:** React, JavaScript, CSS3, React Testing Library
