@@ -168,7 +168,193 @@ I'm a full-stack developer passionate about crafting seamless digital experience
 </p>
 
 ---
+🌟 Featured Projects & Deep Dives
+1️⃣ Portfolio Website — Personal Brand & Case Studies
 
+A modern, responsive portfolio website showcasing my projects, skills, and professional journey as a full-stack developer.
+
+🔗 Live Demo: https://portfolio-web-page-three.vercel.app/
+
+📁 GitHub Repository: https://github.com/ndumisodev/portfolio
+
+Tech Stack
+
+HTML5, CSS3, JavaScript
+
+CSS Grid, Flexbox
+
+Tools
+
+Git & GitHub
+
+VS Code
+
+Vercel
+
+Key Highlights
+
+Clean, minimalist UI with smooth animations
+
+Fully responsive (mobile-first design)
+
+Project showcase with tech tags and live links
+
+Education, certifications, and career timeline
+
+Performance-optimized assets
+
+This project reflects my approach to design clarity, usability, and developer storytelling.
+
+2️⃣ Robot Worlds API — Distributed Systems & Performance
+
+A robust robot simulation engine featuring persistent environments, combat mechanics, and scalable server architecture.
+
+📁 GitHub Repository: https://github.com/ndumisodev/robot-worlds-api
+
+Tech Stack
+
+Java, Javalin, MySQL
+
+Docker, CI/CD
+
+<details> <summary><strong>Deep Dive 🚀</strong></summary>
+Challenge
+
+Performance bottlenecks and limited scalability affected real-time simulations and concurrent robot interactions.
+
+Solution
+
+Modularized the codebase using clean architecture principles
+
+Optimized database queries with indexing and prepared statements
+
+Improved error handling and test coverage
+
+Implemented CI/CD pipelines with Docker for consistent deployments
+
+Key Impact
+
+⏱ API response time reduced by ~40%
+
+📈 Supported 3× more concurrent simulations
+
+🛠 Error rates reduced by 15%
+
+</details>
+3️⃣ Mental Health Counselling API — Real-World Social Impact
+
+A secure and accessible online counselling API designed to improve access to affordable, stigma-free mental health support in South Africa.
+
+Tech Stack
+
+Django REST Framework
+
+Django Channels (WebSockets)
+
+MySQL
+
+Authentication
+
+Djoser + JWT
+
+Integrations
+
+Google Calendar API (planned)
+
+SADAG Hotline API
+
+Twilio (planned)
+
+Deployment
+
+Docker (planned)
+
+Core Features
+
+Role-based authentication (Client, Counselor, Admin)
+
+Session booking, confirmation, and management
+
+Real-time anonymous chat for stigma-sensitive users
+
+Emergency hotline integration
+
+Audit logging for compliance and accountability
+
+Stretch Goals
+
+AI-powered triage questionnaire (NLP)
+
+SMS reminders
+
+Multilingual support
+
+This project demonstrates my ability to design secure, scalable APIs with real social impact.
+
+4️⃣ Little Lemon Restaurant — Front-End Engineering
+
+A user-friendly restaurant web application with booking and dynamic menu features.
+
+📁 GitHub Repository: https://github.com/ndumisodev/little-lemon-restaurant
+
+Tech Stack
+
+React
+
+JavaScript
+
+CSS3
+
+React Testing Library
+
+“Ndumiso’s contribution to the front-end was outstanding — intuitive, responsive, and well-tested.”
+— Project Peer Review
+
+5️⃣ Mangata & Gallo Jewelry — Responsive UI Design
+
+An elegant, mobile-first e-commerce website for a luxury jewelry brand.
+
+📁 GitHub Repository: https://github.com/ndumisodev/mangata-gallo
+
+Tech Stack
+
+HTML5
+
+CSS3
+
+JavaScript
+
+6️⃣ Plotta Web App — Data Visualization
+
+An interactive web application for real-time 2D and 3D mathematical function visualization.
+
+Tech Stack
+
+Python
+
+JavaScript
+
+Plotly
+
+WebGL
+
+📁 GitHub Repository: (coming soon)
+
+✅ Why This Works
+
+This structure guides recruiters naturally:
+
+Who are you? → Portfolio
+
+Can you engineer systems? → Robot Worlds
+
+Can you solve real problems? → Mental Health API
+
+Can you build UIs? → Little Lemon & Mangata
+
+Do you experiment and learn? → Plotta
+
+Your README now acts as a recruiter funnel, not just a project list.
 
 ---
 
