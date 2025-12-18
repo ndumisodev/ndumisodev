@@ -120,6 +120,46 @@ I'm a full-stack developer passionate about crafting seamless digital experience
 ---
 
 
+
+
+
+#### 2. **Mental Health Counselling API** 🧠
+**A secure online counselling platform connecting clients with mental health professionals**
+
+- **📁 Repository:** [github.com/ndumisodev/mental-health-api](https://github.com/ndumisodev/mental-health-api)
+- **🛠️ Tech Stack:** Django REST Framework, Django Channels, MySQL, JWT Auth, WebSockets
+
+<details>
+<summary><strong>🏥 Project Overview & Technical Details</strong></summary>
+
+**Project Vision:**
+Addressing limited access to affordable, timely, and stigma-free mental health support in South Africa by creating a secure, accessible platform that simplifies finding, booking, and managing counselling sessions.
+
+**Key Features:**
+- **🔐 Authentication & Roles:** JWT-based authentication with Djoser for Clients, Counselors, and Admins
+- **👥 Profiles:** Counselor specialties, languages, availability, bio, and client preferences
+- **📅 Session Booking:** Book, confirm, cancel, and complete sessions with Google Calendar integration
+- **💬 Real-time Messaging:** Anonymous chat rooms with Django Channels/WebSockets
+- **🚨 Emergency Support:** SADAG/Lifeline hotline API integration
+- **📊 Audit Logging:** Comprehensive action tracking for accountability and compliance
+
+**Stretch Goals:**
+- AI-powered triage questionnaire (basic NLP)
+- SMS reminders via Twilio
+- Multilingual support
+
+
+
+
+
+
+#### 2. **Robot Worlds API** 🤖
+**A complex robot simulation engine with persistent worlds and database integration**
+
+- **📁 Repository:** [github.com/ndumisodev/robot-worlds-api](https://github.com/ndumisodev/robot-worlds-api)
+- **📝 Case Study:** [Brownfield Project Report](https://medium.com/@ndumisongobeseng/brownfield-project-report-8c88b8d6472c)
+- **🛠️ Tech Stack:** Java, Javalin, MySQL, Docker, CI/CD, GitLab
+
 - **<span style="color: #007bff;">Robot Worlds API:</span>** A robust robot simulation engine with persistent environments, intricate combat mechanics, and seamless database integration.
   - **Tech Stack:** Java, Javalin, MySQL, Docker, CI/CD
   - **<a href="https://github.com/ndumisodev/robot-worlds-api">GitHub Repository</a>**
