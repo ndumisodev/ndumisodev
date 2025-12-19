@@ -67,21 +67,16 @@ I'm a full-stack developer passionate about crafting seamless digital experience
 
 ### 🎓 Certifications
 
-#### **Coursera Professional Certificates:**
 <p align="left">
-  <!-- If you have badge embed codes from Coursera/Credly -->
   <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/Z0LJ6WZX0CY5" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/7c4dd2c8-6e06-44e5-90a7-eb7091e43b39/Meta_Front-End_Developer_Certificate_Badge.png" width="100" alt="Meta Front-End Badge" />
-  </a>
-  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/K146JX3W0BAQ" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/57c7b6e2-ea58-4fb6-8a9d-55289f3b1661/Meta_Back-End_Developer_Certificate_Badge.png" width="100" alt="Meta Back-End Badge" />
+    <img src="https://img.shields.io/badge/Coursera-Full_Stack_Developer-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera Full Stack" />
   </a>
 </p>
 
-**Verification Links:**
-- **Meta Front-End Developer:** [https://coursera.org/verify/Z0LJ6WZX0CY5](https://www.coursera.org/account/accomplishments/specialization/Z0LJ6WZX0CY5)
-- **Meta Back-End Developer:** [https://coursera.org/verify/K146JX3W0BAQ](https://www.coursera.org/account/accomplishments/specialization/K146JX3W0BAQ)
-- **IBM Agile & Scrum:** [https://coursera.org/verify/7F6DE4BE8940FAFD6F617A99323BCA04](https://www.coursera.org/account/accomplishments/certificate/7F6DE4BE8940FAFD6F617A99323BCA04)
+**Professional Specializations Completed:**
+- ✅ **Meta Front-End Developer** - [View Certificate](https://www.coursera.org/account/accomplishments/specialization/Z0LJ6WZX0CY5)
+- ✅ **Meta Back-End Developer** - [View Certificate](https://www.coursera.org/account/accomplishments/specialization/K146JX3W0BAQ)
+- ✅ **IBM Agile & Scrum** - [View Certificate](https://www.coursera.org/account/accomplishments/certificate/7F6DE4BE8940FAFD6F617A99323BCA04)
 
 <p align="left">
   <a href="#" target="_blank">
