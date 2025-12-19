@@ -54,17 +54,6 @@ I'm a full-stack developer passionate about crafting seamless digital experience
 
 ---
 
-
-### 🎓 Certifications
-
-![Meta Front-End Developer](https://img.shields.io/badge/Meta-Front--End_Developer-blue?logo=meta&logoColor=white)(https://www.coursera.org/account/accomplishments/specialization/Z0LJ6WZX0CY5)
-![Meta Back-End Developer](https://img.shields.io/badge/Meta-Back--End_Developer-blue?logo=meta&logoColor=white)(https://www.coursera.org/account/accomplishments/specialization/K146JX3W0BAQ)
-![IBM Agile & Scrum](https://img.shields.io/badge/IBM-Agile_&_Scrum-orange?logo=ibm&logoColor=white)
-![WeThinkCode_ Graduate](https://img.shields.io/badge/WeThinkCode_-Graduate-6C33FF?logo=python&logoColor=white)
-[![Meta Front-End Certificate](https://img.shields.io/badge/View-Certificate-blue?logo=meta&logoColor=white)](https://coursera.org/share/your-cert-link)
-
----
-
 ### 🎓 Certifications
 
 #### **Meta Professional Certificates:**
@@ -75,7 +64,7 @@ I'm a full-stack developer passionate about crafting seamless digital experience
   <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/K146JX3W0BAQ" target="_blank">
     <img src="https://img.shields.io/badge/Meta-Back--End_Developer-blue?logo=meta&logoColor=white" alt="Meta Back-End" />
   </a>
-  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/Z0LJ6WZX0CY5" target="_blank">
+  <a href="https://www.coursera.org/account/accomplishments/verify/9OBTZPLZK40J" target="_blank">
     <img src="https://img.shields.io/badge/✓_Full_Stack_Specialization-0056D2?logo=coursera&logoColor=white&style=for-the-badge" alt="Full Stack Specialization" />
   </a>
 </p>
