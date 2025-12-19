@@ -69,10 +69,10 @@ I'm a full-stack developer passionate about crafting seamless digital experience
 
 #### **Meta Professional Certificates:**
 <p align="left">
-  <a href="https://www.coursera.org/account/accomplishments/specialization/Z0LJ6WZX0CY5" target="_blank">
+  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/Z0LJ6WZX0CY5" target="_blank">
     <img src="https://img.shields.io/badge/Meta-Front--End_Developer-blue?logo=meta&logoColor=white" alt="Meta Front-End" />
   </a>
-  <a href="https://www.coursera.org/account/accomplishments/specialization/K146JX3W0BAQ" target="_blank">
+  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/K146JX3W0BAQ" target="_blank">
     <img src="https://img.shields.io/badge/Meta-Back--End_Developer-blue?logo=meta&logoColor=white" alt="Meta Back-End" />
   </a>
   <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/Z0LJ6WZX0CY5" target="_blank">
