@@ -202,11 +202,69 @@ The Brownfield project focused on extending and refining the existing Robot Worl
 
 ---
 
-#### 4. **Little Lemon Restaurant** 
-- **<span style="color: #007bff;">Little Lemon Restaurant:</span>** A user-friendly full-stack restaurant management system encompassing intuitive booking and dynamic menu features.
-  - **Tech Stack:** React, JavaScript, CSS3, React Testing Library
-  - **<a href="https://github.com/ndumisodev/little-lemon-restaurant">GitHub Repository</a>**
-  - **Testimonial:** <q>Ndumiso's contribution to the Little Lemon project's front-end was outstanding. The application is not only visually appealing but also incredibly intuitive and responsive, leading to positive user feedback. His meticulous approach to testing ensured a stable and reliable user experience.</q> - Project Peer Review
+#### 4. **Little Lemon Restaurant** 🍋
+**A user-friendly full-stack restaurant management system with intuitive booking and dynamic menu features**
+
+- **🔗 Live Demo:** [littlelemonrestaurant-eight.vercel.app](https://littlelemonrestaurant-eight.vercel.app/)
+- **📁 Frontend Repository:** [github.com/ndumisodev/front-end-capstone](https://github.com/ndumisodev/front-end-capstone)
+- **📁 Backend Repository:** [github.com/ndumisodev/littlelemon-restaurant-api](https://github.com/ndumisodev/littlelemon-restaurant-api)
+- **🛠️ Tech Stack:** React, JavaScript, CSS3, React Testing Library, Django REST Framework, MySQL
+
+> **Testimonial:** <q>Ndumiso's contribution to the Little Lemon project's front-end was outstanding. The application is not only visually appealing but also incredibly intuitive and responsive, leading to positive user feedback. His meticulous approach to testing ensured a stable and reliable user experience.</q> - **Project Peer Review**
+
+<details>
+<summary><strong>🍽️ Project Features & Highlights</strong></summary>
+
+## 🎯 Project Overview
+Little Lemon Restaurant is a comprehensive restaurant management system that provides an elegant solution for table reservations and menu management. The project showcases full-stack development capabilities with a modern React frontend and robust Django backend API.
+
+## ✨ Key Features
+### Frontend Capabilities:
+- **📱 Responsive Design:** Mobile-first approach with CSS Grid and Flexbox
+- **📅 Booking System:** Intuitive reservation interface with form validation
+- **📋 Dynamic Menu:** Real-time menu display with filtering options
+- **🔐 User Authentication:** Secure login and registration system
+- **📊 Admin Dashboard:** Management interface for restaurant operations
+
+### Backend Features:
+- **🔒 RESTful API:** Django REST Framework for robust backend services
+- **🗄️ Database Management:** MySQL integration for data persistence
+- **🔐 Authentication:** Token-based authentication system
+- **🧪 Comprehensive Testing:** Unit and integration tests for reliability
+
+## 🎨 User Experience Highlights
+- **Smooth Animations:** CSS transitions for enhanced user interaction
+- **Form Validation:** Real-time feedback for user inputs
+- **Accessibility:** Semantic HTML and ARIA labels for screen readers
+- **Performance:** Optimized assets and lazy loading for fast load times
+
+## 🛠️ Technical Implementation
+### Frontend Architecture:
+```javascript
+// Example: Booking form component
+const BookingForm = () => {
+  const [formData, setFormData] = useState({
+    name: '',
+    guests: 2,
+    date: '',
+    time: '19:00'
+  });
+  
+  // Form validation and submission logic
+  const handleSubmit = async (e) => {
+    e.preventDefault();
+    // API call to Django backend
+    await axios.post('/api/bookings/', formData);
+  };
+  
+  return (
+    <form onSubmit={handleSubmit}>
+      {/* Form fields with validation */}
+    </form>
+  );
+};
+
+---
 
 - **<span style="color: #007bff;">Mangata & Gallo Jewelry:</span>** An elegant and responsive e-commerce platform for luxury jewelry, designed with a mobile-first approach.
   - **Tech Stack:** HTML5, CSS3, JavaScript
@@ -229,24 +287,18 @@ The Brownfield project focused on extending and refining the existing Robot Worl
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndumisodev&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
 
 
-### 🐍 Contribution Snake
-
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/ndumisodev/ndumisodev/output/github-contribution-grid-snake.svg"
        alt="GitHub Contribution Snake Animation" />
-</p>
-
----
+</p> -->
 
 
-### 🏆 GitHub Trophies
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ndumisodev&theme=radical" alt="GitHub Trophies" />
-</p>
+</p> -->
 
 ---
 
