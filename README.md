@@ -289,7 +289,7 @@ Mangata & Gallo is a premium jewelry boutique website specializing in custom eng
 - **⚡ Compressed Images:** Optimized for fast loading
 - **🚀 Efficient CSS:** Minimal, targeted stylesheets
 - **📦 Lazy Loading:** Deferred loading for non-critical assets
-
+</details>
 
 ---
 
