@@ -240,16 +240,64 @@ Little Lemon Restaurant is a comprehensive restaurant management system that pro
 </details>
 
 ---
+#### 5. **Mangata & Gallo Jewelry** 💎
+**An elegant and responsive e-commerce platform for luxury jewelry, designed with a mobile-first approach**
 
-- **<span style="color: #007bff;">Mangata & Gallo Jewelry:</span>** An elegant and responsive e-commerce platform for luxury jewelry, designed with a mobile-first approach.
-  - **Tech Stack:** HTML5, CSS3, JavaScript
-  - **<a href="https://github.com/ndumisodev/mangata-gallo">GitHub Repository</a>**
+- **🔗 Live Demo:** [g-g-landing-page.vercel.app](https://g-g-landing-page.vercel.app/)
+- **📁 Repository:** [github.com/ndumisodev/mangata-gallo](https://github.com/ndumisodev/mangata-gallo)
+- **🛠️ Tech Stack:** HTML5, CSS3, Vanilla JavaScript, CSS Grid, Flexbox, Font Awesome
 
-- **<span style="color: #007bff;">Plotta Web App:</span>** An interactive web application for visualizing 2D and 3D mathematical functions in real-time.
-  - **Tech Stack:** Python, JavaScript, Plotly, WebGL
-  - **<a href="[Your Plotta Repo Link]">GitHub Repository</a>**
+<details>
+<summary><strong>✨ Project Overview & Technical Implementation</strong></summary>
+
+## 🎯 Project Introduction
+Mangata & Gallo is a premium jewelry boutique website specializing in custom engagement rings and wedding jewelry. This project showcases modern frontend development techniques with a focus on responsive design, performance optimization, and elegant user experience.
+
+## ✨ Key Features
+### **Responsive Design Excellence:**
+- **📱 Mobile-First Approach:** Seamless adaptation across all device sizes
+- **🖥️ Desktop Optimization:** Elegant layouts for larger screens
+- **🔄 Fluid Grids:** CSS Grid and Flexbox for flexible layouts
+
+### **Interactive Elements:**
+- **🎬 Promotional Video Background:** Immersive visual experience
+- **🔍 Smooth Scrolling Navigation:** Enhanced user navigation
+- **🍔 Mobile-Friendly Menu:** Hamburger menu with smooth animations
+- **✨ Hover Effects:** Subtle animations for interactive elements
+
+### **Performance Optimization:**
+- **⚡ Compressed Images:** Optimized for fast loading
+- **🚀 Efficient CSS:** Minimal, targeted stylesheets
+- **📦 Lazy Loading:** Deferred loading for non-critical assets
+
 
 ---
+
+#### 6. **Plotta Web App** 📊
+**An interactive web application for visualizing 2D and 3D mathematical functions in real-time**
+
+- **📁 Repository:** [github.com/ndumisodev/plotta-web-app](https://github.com/ndumisodev/plotta-web-app)
+- **🛠️ Tech Stack:** Python, JavaScript, Plotly, WebGL, Flask/Django, Three.js
+- **🚧 Status:** Planning & Early Development Phase
+
+<details>
+<summary><strong>📈 Project Vision & Technical Planning</strong></summary>
+
+## 🎯 Project Vision
+Plotta Web App aims to create an intuitive, interactive platform for mathematical visualization, making complex function graphing accessible to students, educators, and researchers. The application will bridge the gap between mathematical concepts and visual understanding through real-time 2D/3D rendering.
+
+## 🎯 Planned Features
+### **Core Functionality:**
+- **📊 2D Function Plotting:** Real-time graphing of mathematical functions
+- **🌐 3D Surface Visualization:** Interactive 3D rendering with rotation and zoom
+- **🔄 Real-time Updates:** Dynamic parameter adjustment with instant visualization
+- **📱 Responsive Design:** Accessible across desktop and mobile devices
+
+### **Mathematical Capabilities:**
+- **📈 Function Types:** Trigonometric, polynomial, exponential, logarithmic
+- **🔢 Parameter Control:** Interactive sliders for function parameters
+- **🎨 Visualization Options:** Color mapping, grid toggling, perspective control
+- **📥 Import/Export:** Save and load function configurations
 
 
 ### 📈 GitHub Stats
