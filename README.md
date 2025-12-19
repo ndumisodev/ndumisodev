@@ -319,6 +319,10 @@ Plotta Web App aims to create an intuitive, interactive platform for mathematica
 - **🎨 Visualization Options:** Color mapping, grid toggling, perspective control
 - **📥 Import/Export:** Save and load function configurations
 
+</details>
+
+---
+
 
 ### 📈 GitHub Stats
 
