@@ -74,7 +74,7 @@ I'm a full-stack developer passionate about crafting seamless digital experience
   <a href="https://www.credly.com/badges/4d0896ad-34c6-4693-a501-81c995dda3b9/linked_in_profile" target="_blank">
     <img src="https://img.shields.io/badge/IBM-Agile_&_Scrum-orange?logo=ibm&logoColor=white" alt="IBM Agile" />
   </a>
-  <a href="https://raw.githubusercontent.com/ndumisodev/your-repository-name/main/Certificates Copies-08-10-2025-230.pdf" target="_blank">
+  <a href="https://raw.githubusercontent.com/ndumisodev/ndumisodev/main/Certificates Copies-08-10-2025-230.pdf" target="_blank">
     <img src="https://img.shields.io/badge/WeThinkCode_-Graduate-6C33FF?logo=python&logoColor=white" alt="WeThinkCode_" />
   </a>
   <a href="./70-back-end-web-development-certificate-ndumiso-ngobese.png" target="_blank">
