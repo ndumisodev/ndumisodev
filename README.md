@@ -71,7 +71,7 @@ I'm a full-stack developer passionate about crafting seamless digital experience
 
 #### **Additional Certifications:**
 <p align="left">
-  <a href="https://www.coursera.org/account/accomplishments/certificate/7F6DE4BE8940FAFD6F617A99323BCA04" target="_blank">
+  <a href="https://www.credly.com/badges/4d0896ad-34c6-4693-a501-81c995dda3b9/linked_in_profile" target="_blank">
     <img src="https://img.shields.io/badge/IBM-Agile_&_Scrum-orange?logo=ibm&logoColor=white" alt="IBM Agile" />
   </a>
   <a href="#" target="_blank">
