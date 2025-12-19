@@ -67,18 +67,24 @@ I'm a full-stack developer passionate about crafting seamless digital experience
 
 ### 🎓 Certifications
 
+#### **Meta Professional Certificates:**
 <p align="left">
+  <a href="https://www.coursera.org/account/accomplishments/specialization/Z0LJ6WZX0CY5" target="_blank">
+    <img src="https://img.shields.io/badge/Meta-Front--End_Developer-blue?logo=meta&logoColor=white" alt="Meta Front-End" />
+  </a>
+  <a href="https://www.coursera.org/account/accomplishments/specialization/K146JX3W0BAQ" target="_blank">
+    <img src="https://img.shields.io/badge/Meta-Back--End_Developer-blue?logo=meta&logoColor=white" alt="Meta Back-End" />
+  </a>
   <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/Z0LJ6WZX0CY5" target="_blank">
-    <img src="https://img.shields.io/badge/Coursera-Full_Stack_Developer-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera Full Stack" />
+    <img src="https://img.shields.io/badge/✓_Full_Stack_Specialization-0056D2?logo=coursera&logoColor=white&style=for-the-badge" alt="Full Stack Specialization" />
   </a>
 </p>
 
-**Professional Specializations Completed:**
-- ✅ **Meta Front-End Developer** - [View Certificate](https://www.coursera.org/account/accomplishments/specialization/Z0LJ6WZX0CY5)
-- ✅ **Meta Back-End Developer** - [View Certificate](https://www.coursera.org/account/accomplishments/specialization/K146JX3W0BAQ)
-- ✅ **IBM Agile & Scrum** - [View Certificate](https://www.coursera.org/account/accomplishments/certificate/7F6DE4BE8940FAFD6F617A99323BCA04)
-
+#### **Additional Certifications:**
 <p align="left">
+  <a href="https://www.coursera.org/account/accomplishments/certificate/7F6DE4BE8940FAFD6F617A99323BCA04" target="_blank">
+    <img src="https://img.shields.io/badge/IBM-Agile_&_Scrum-orange?logo=ibm&logoColor=white" alt="IBM Agile" />
+  </a>
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/WeThinkCode_-Graduate-6C33FF?logo=python&logoColor=white" alt="WeThinkCode_" />
   </a>
